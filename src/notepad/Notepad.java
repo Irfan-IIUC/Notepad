@@ -11,7 +11,6 @@ import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 
-
 public class Notepad extends JFrame implements ActionListener {
 
     JTextArea ta;
